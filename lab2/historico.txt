@@ -1,0 +1,34 @@
+# Histórico:
+
+## vetor.bin:
+
+./lab2_seq 10 vetor.bin
+./lab2_conc vetor.bin 4
+
+
+## vetor2.bin:
+
+./lab2_seq 20 vetor2.bin
+./lab2_conc vetor2.bin 4
+
+
+## vetor3.bin:
+
+./lab2_seq 200 vetor3.bin
+./lab2_conc vetor3.bin 4
+
+
+## vetor4.bin:
+
+./lab2_seq 2000 vetor4.bin
+./lab2_conc vetor4.bin 4
+
+
+## vetor5.bin:
+
+./lab2_seq 20000 vetor5.bin
+./lab2_conc vetor5.bin 4
+
+
+# Observações:
+- A medida que a dimensão do vetor aumenta, maior o tempo de execução do arquivo sequencial. Em compensação, o concorrente mantém seu tempo de execução rápido.
