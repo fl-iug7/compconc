@@ -1,0 +1,5 @@
+Bom dia/Boa tarde/Boa noite, Monitor(es)/Professora.
+
+O programa que eu desenvolvi funciona para o caso 1 thread para o *ExecutaTarefa e 1 thread para o *extra (que foi o exigido no lab). Mas, eu não mockei a variavel de threads = 1 (para o caso descrito anteriormente), por isso o programa atende você escolher o número de threads para executar o *ExecutaTarefa. Então, por gentileza, considerem apenas o caso onde é 1 thread para o *ExecutaTarefa e 1 thread para o *extra durante a correção deste lab.
+
+Desde já agradeço a atenção.
